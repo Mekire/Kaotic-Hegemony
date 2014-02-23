@@ -6,14 +6,14 @@ Migrating some of my older projects over to my github account.  This is a 1 vs 1
 ![KH2](http://i1192.photobucket.com/albums/aa340/Mekire/CHscreeny1.png)
 
 ### Controls:
-| *Player One*                |
+| *Player One*|               |
 | ----------- | ------------- |
 | Movement    |  Arrow-Keys   |
 | Primary     |  P-Key        |
 | Secondary   |  O-key        |
 
 
-| *Player Two*                |
+| *Player Two*|               |
 | ----------- | ------------- |
 | Movement    |  WASD         |
 | Primary     |  Spacebar     |
